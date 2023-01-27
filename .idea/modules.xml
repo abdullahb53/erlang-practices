@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="ProjectModuleManager">
-    <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/erlang.iml" filepath="$PROJECT_DIR$/.idea/erlang.iml" />
-      <module fileurl="file://$PROJECT_DIR$/pure_erlang/pure_erlang.iml" filepath="$PROJECT_DIR$/pure_erlang/pure_erlang.iml" />
-    </modules>
-  </component>
-</project>
